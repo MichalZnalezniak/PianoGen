@@ -44,7 +44,3 @@ python finetune.py
 ```sh
 python eval.py
 ```
-
-## How this project processed data - system of sequentails pipelines (Example)
-
-![Alt text](./raport/allPipelines.svg)
